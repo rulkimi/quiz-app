@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Everyone has strengths and weaknesses. Even in someone outstanding, we often easily notice their flaws. But don't forget, their strengths are more worthy of us to discover and learn from.",
+    "questionMain": "★This passage reminds us to:",
+    "answers": [
+      "Have patience",
+      "Accept criticism",
+      "Learn to forgive",
+      "See the strengths in others"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Understanding the actual needs of customers is extremely important. The same product, no matter how good its quality or how cheap it is, if customers don't need it at all, it's challenging to sell it.",
+    "questionMain": "★In addition to quality and price, customers also consider:",
+    "answers": [
+      "Emotional connection",
+      "Their own needs",
+      "Salesperson's suggestions",
+      "Their purchasing power"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The climate on Earth is truly fascinating: some places can see snow all year round, while others never experience it. In the same month of March, some places still don't have new leaves on trees, while others are covered in fresh flowers everywhere.",
+    "questionMain": "★This passage uses examples to illustrate the Earth's climate:",
+    "answers": [
+      "Having no differences",
+      "Being very interesting",
+      "Suffering from pollution",
+      "Having little change"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Lately, Xiaosun hasn't been in a good mood, possibly due to the last competition where he was affected by the loss. It's best to find some time to talk to him, to relieve his pressure, and encourage him to prepare well for the next competition.",
+    "questionMain": "★Xiaosun:",
+    "answers": [
+      "Lost a lot of weight",
+      "Was banned from participating",
+      "Is struggling to adapt to the new school",
+      "Lost the last competition"
+    ],
+    "correct": 3
+  }
+]
